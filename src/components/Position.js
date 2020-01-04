@@ -103,7 +103,7 @@ const Position = () =>
     <>
     <Row style={{"margin-top": 20}}>
         <Col>
-            <h2>Positions</h2>
+            <h2>Professional Experience</h2>
         </Col>
     </Row>
     {

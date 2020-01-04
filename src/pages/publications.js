@@ -6,7 +6,7 @@ import Col from "react-bootstrap/Col";
 
 const PublicationsPage = () => (
   <Layout>
-    <SEO title="Marcos de Aguiar bio" />
+    <SEO title="Publications" />
     <Row style={{"margin-top": 20}}>
         <Col>
             <h2>Publications</h2>

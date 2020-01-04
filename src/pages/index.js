@@ -6,7 +6,7 @@ import Position from "../components/Position";
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Marcos de Aguiar bio" />
+    <SEO title="About Me" />
     <Position />
     <Education />
   </Layout>
