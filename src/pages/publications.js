@@ -9,7 +9,7 @@ const PublicationsPage = () => (
     <SEO title="Publications" />
     <Row style={{"margin-top": 20}}>
         <Col>
-            <h2>Publications</h2>
+            <h2>Academic Publications</h2>
             <ul>
                 <li>
                     <b>Marcos de Aguiar</b>, Fabíola Greve, Genaro Costa: <i>"PrescStream: A Framework for Streaming Soft Real-Time Predictive and Prescriptive Analytics"</i>

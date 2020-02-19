@@ -12,6 +12,7 @@ const TopMenu = () =>
             <Link to="/" className="nav-link" activeClassName="active" >About Me</Link>
             <Link to="/techskills" className="nav-link" activeClassName="active" >Technical Skills</Link>
             <Link to="/publications" className="nav-link" activeClassName="active" >Publications</Link>
+            <Link to="/portfolio" className="nav-link" activeClassName="active" >Portfolio</Link>
         </Nav>
     </NavBar>
 
