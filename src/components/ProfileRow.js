@@ -15,7 +15,7 @@ const ProfileRow = () =>
             Marcos de Aguiar, MSc Computer Science <br />
             Location: Salvador - Bahia - Brazil <br />
             Email: contact@marcosdeaguiar.com <br />
-            Github: <a href="https://github.com/marcosdeaguiar">https://github.com/marcosdeaguiar</a>
+            Github: <a target="_blank" href="https://github.com/marcosdeaguiar">https://github.com/marcosdeaguiar</a>
             <h3>Languages</h3>
             <ul>
               <li><b>Portuguese:</b> native</li>
