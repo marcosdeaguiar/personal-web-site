@@ -22,6 +22,18 @@ const PublicationsPage = () => (
             </ul>
         </Col>
     </Row>
+    <Row style={{"margin-top": 10}}>
+        <Col>
+            <h2>Technical Publications</h2>
+            <ul style={{"margin-top": 10}}>
+                <li>
+                    <a target="_blank" href="https://medium.com/@marcos.deaguiar/custom-react-hook-for-pagination-81d55d5b1e75" >
+                        Custom React hook for pagination
+                    </a>
+                </li>
+            </ul>
+        </Col>
+    </Row>
   </Layout>
 )
 
