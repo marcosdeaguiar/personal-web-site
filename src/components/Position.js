@@ -30,7 +30,7 @@ const positionData = [
     {
         title: "Software Developer - ION Trading",
         city: "Berlin - Germany",
-        duration: "Sep 2014 - Dec 2019",
+        duration: "Jan 2012 - Jun 2012",
         tasks: [
             "GUI development for fix income pricing engine using .net platform(C#, WPF)."
         ]
