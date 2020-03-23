@@ -79,7 +79,7 @@ const positionData = [
     },
 
     {
-        title: "C/C++ Software Developer (Interniship) - InWise Internet Company do Brasil S.A.",
+        title: "C/C++ Software Developer (Internship) - InWise Internet Company do Brasil S.A.",
         city: "Salvador - Bahia - Brazil",
         duration: "Feb 2005 - Oct 2005",
         tasks: [
