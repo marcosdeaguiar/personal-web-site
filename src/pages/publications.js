@@ -31,6 +31,11 @@ const PublicationsPage = () => (
                         Custom React hook for pagination
                     </a>
                 </li>
+                <li>
+                    <a target="_blank" href="https://medium.com/@marcos.deaguiar/spa-with-cookie-authentication-in-asp-net-core-c7ba6d9f8ebe" >
+                        SPA with cookie authentication in Asp.net Core
+                    </a>
+                </li>
             </ul>
         </Col>
     </Row>
